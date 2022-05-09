@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+}
+/* Navbar */
+.navbar-brand{
+    font-family: 'Monoton', cursive;
+    font-size: 40px;
+    color: white;
+}
+
+.nav-link {
+    text-transform: capitalize;
+    font-weight: 500;
+  }
+  
+
+.container-fluid-banner{
+    background-image: url("css/img/cafe.jpg");
+    background-size: cover;
+    padding: 20%;
+    padding-bottom: 20%;
+}
